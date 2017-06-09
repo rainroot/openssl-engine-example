@@ -1,4 +1,9 @@
- # openssl-engine-example
+# openssl-engine-example
+
+
+# INSTALL
+
+./build.sh
 
 
 # Use Example
